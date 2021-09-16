@@ -36,18 +36,23 @@
                     <strong>DAILY STAND UP </strong>
 				</span>
 
-            <div class="container-login100-form-btn m-t-32">
-                <a href="/login" class="login100-form-btn" style="text-decoration: none">
-                    Login
-                </a>
-            </div>
-            <h3 style="text-align: center; color: white; padding-top: 25px">OR</h3>
-            <div class="container-login100-form-btn m-t-32">
-                <a href="/register" class="login100-form-btn" style="text-decoration: none">
-                    Register
-                </a>
-            </div>
+{{--            <div class="container-login100-form-btn m-t-32">--}}
+{{--                <a href="/login" class="login100-form-btn" style="text-decoration: none">--}}
+{{--                    Login--}}
+{{--                </a>--}}
+{{--            </div>--}}
+{{--            <h3 style="text-align: center; color: white; padding-top: 25px">OR</h3>--}}
+{{--            <div class="container-login100-form-btn m-t-32">--}}
+{{--                <a href="/register" class="login100-form-btn" style="text-decoration: none">--}}
+{{--                    Register--}}
+{{--                </a>--}}
+{{--            </div>--}}
 
+            <div class="container-login100-form-btn m-t-32">
+                 <a href="/showtask" class="login100-form-btn" style="text-decoration: none">
+                        Let's Start
+                 </a>
+            </div>
         </div>
     </div>
 </div>
